@@ -2,4 +2,6 @@
 
 Welcome to my Coding Interview Challenges!
 
-Here, I share an organized selection of projects that I've developed in job interviews. This space is dedicated to showcasing challenges faced, highlighting my skills and expertise. Each project represents an opportunity where I showcased my abilities in specific technology stacks.
+This space is reserved for a collection of projects I've undertaken in response to job interview requests, featuring various challenges I've faced, showcasing my skills and expertise.
+
+Each project is named after the company where the challenges were conducted.
