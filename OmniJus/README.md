@@ -16,7 +16,7 @@ Each folder is named with the technical requirements (React.js | Node.js)
 ## 🔖 Layout
 
 - Front-end can be access by [this link](https://omni-jus.vercel.app/). 
-- Back-end can be access by [this link](https://omnijus-production.up.railway.app/). 
+- Back-end not hosted
 
 ## ✨ Tecnologias
 
